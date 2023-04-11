@@ -1,0 +1,8 @@
+{
+  "name": "react-native-barebone-template",
+  "version": "0.0.1",
+  "description": "React Native Barebone Template",
+  "repository": "https://github.com/vxdy/ReactNativeBareboneTemplate.git",
+  "author": "Marco B <admin@centrapi.net>",
+  "license": "MIT"
+}
